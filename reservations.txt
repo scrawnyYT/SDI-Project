@@ -1,0 +1,8 @@
+Doctor Visit Confirmed
+Booking ID: HSP-2026-001
+Patient: Tun
+Patient ID: P001
+Doctor: Doctor1
+Date: 2026-12-10
+InsuranceCode: ABC123
+

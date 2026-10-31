@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Payable
+comment1.params=
+comment1.target=void\ processPayment()
+comment2.params=
+comment2.target=void\ applyDiscount()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DoctorVisit
+comment1.params=bookingID\ patientID\ patientName\ doctorName\ appointmentDate\ insuranceCode\ reservationType
+comment1.target=DoctorVisit(BookingID,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.time.LocalDate,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getConfirmationDetails()
+comment3.params=
+comment3.target=void\ processPayment()
+numComments=4
